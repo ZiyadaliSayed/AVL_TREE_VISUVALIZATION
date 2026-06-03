@@ -43,5 +43,9 @@ Since this project uses vanilla JavaScript and standard HTML/CSS (with Tailwind 
 
   Simply open the AVL_TREE_VISUVALIZATION.html file in your preferred web browser.
 
+4. **VISUALIZER LINK:**
+
+https://ziyadalisayed.github.io/AVL_TREE_VISUVALIZATION/
+
   # 🧠 Educational Value
   AVL trees maintain an $O(\log n)$ search, insertion, and deletion time complexity by ensuring the height difference (Balance Factor) between the left and right subtrees of any node is never greater than 1. This visualizer breaks down the "black box" of those self-balancing algorithms by tracking an imaginary traveling node and outputting every logical decision directly into the integrated UI event log.
